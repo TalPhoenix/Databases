@@ -1,0 +1,97 @@
+/* 
+    Created on : Feb 24, 2017, 7:31:58 AM
+    Author     : Dave
+*/
+
+body
+{
+	color: #7E00DD;
+}
+
+div.container {
+ 	width: 100%;
+  	border: 5px solid #000000;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+header, footer {
+ 	padding: 1em;
+  	color: white;
+  	background-color: #7E00DD;
+  	clear: left;
+ 	text-align: center;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+
+nav {
+  	float: left;
+  	max-width: 160px;
+  	margin: 0;
+  	padding: 20px 0px 0px 20px;
+	font-size: 18px;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  padding-left: 10px;
+  margin: 0;
+}
+
+nav ul a {
+  text-decoration: none;
+}
+
+article {
+  margin-left: 170px;
+  border-left: 1px solid gray;
+  padding: 1em;
+  overflow: hidden;
+  height: 500px;
+}
+
+#sqletc
+{
+  height: 65%;
+  width: 90%;
+  padding: 1em;
+}
+
+#output
+{
+  height: 25%;
+  width: 90%;
+  padding: 1em;
+}
+
+ul.LinkedList 
+{ 
+  display: block; 
+}
+
+ul.LinkedList ul 
+{
+  display: none; 
+} 
+
+input
+{
+	border-color: #7E00DD;
+	color:#7E00DD;
+	border-radius: 10px;
+}
+a{
+	color: #FFFFFF;
+}
+article{
+	background-color: #BB8AFF
+}
+textarea{
+	background-color: #DCDCDC;
+}
