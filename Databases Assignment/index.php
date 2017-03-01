@@ -18,8 +18,8 @@
     <div class="container">
       <header>
         <h1>Tori's Database!</h1>
-       	<a href="<?php echo 'connection.php'; ?>">Connection to Server </a>
-       	<a href="<?php echo 'select.php'; ?>"></a>
+       	<a href="<?php echo 'connection.php'; ?>"></a>
+       	<a href="<?php echo 'select.php'; ?>">Connection to Server</a>
       </header>
       <nav>
         <ul id="Tables" class="LinkedList">
